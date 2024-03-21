@@ -1,0 +1,24 @@
+:root {
+    --cinza: #b981c7b2;
+    --vermelha: #8527c4b0;
+    --vermelho-escuro: #b576dfb0;
+    --branca: #ffffffb0;
+    --luz: rgb(255, 247, 239);
+}
+body{
+    background: linear-gradient(45deg, --vermelha, --vermelho-escuro, 100%);
+
+}
+h1{
+    font-size: 25px;
+    
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 25px;
+}
